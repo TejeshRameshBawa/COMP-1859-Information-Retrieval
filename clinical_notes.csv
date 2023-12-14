@@ -1,0 +1,21 @@
+Name,ClinicalNotes,Annotation
+John Doe,Difficulty falling asleep,['no able to fall asleep']
+Jane Smith,Family history of MI or Family history of myocardial infarction,['father heart disease']
+Michael Lee,Female,['G2P2']
+Emily Chen,No hair changes or no nail changes or no temperature intolerance,"['Denies', 'change in skin', 'hair']"
+Alex Wong,Male,['male']
+Sarah Kim,Difficulty falling asleep,['difficulty of maintaining sleep']
+David Wu,No shortness of breath,"['denies', 'dyspnea']"
+Olivia Tan,Increased frequency recently,['happened 5 years ago and stopped and recently started again 3 weeks ago']
+Chris Ng,Associated feeling of impending doom,['worries that somwthing terrible is about to happend']
+Samantha Liu,Recent visit to emergency department with negative workup,['Lab work done last visit was - for any abnormalities']
+Kevin Yeo,Family history of MI or Family history of myocardial infarction,['Father has heart problem']
+Grace Lim,Recent visit to emergency department with negative workup,"['LAST VISIT FOR', '2 WEEK BACK DID ALL BLOOD INVESTIGATION CBC ,METABOLIC, ECG WNL']"
+Daniel Oh,Family history of migraines,"['Fam', 'mom migraines']"
+Linda Goh,Global headache or diffuse headache,"['headache', 'not localized']"
+Ryan Tan,No relief with Motrin or no relief with tylenol,['only minimal relieve with Ibuprofen an tylenol']
+Ella Chu,Increased frequency recently,"['SINCE 3 WEEKS AGO  STARTED AGAIN', 'LIKE TWICE PER DAY,']"
+Peter Ho,No blood in stool,"['stool', 'no blood']"
+Hannah Wong,Post prandial bloating or fullness with meals,['bloating']
+Jack Tan,Family history of MI or Family history of myocardial infarction,['father - heart issue']
+Michelle Lam,heart pounding or heart racing,['heart pounding']
